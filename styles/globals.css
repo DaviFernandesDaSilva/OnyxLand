@@ -45,17 +45,24 @@ a {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.greyC {
-  filter: gray;
-  -webkit-filter: grayscale(100%); 
-  transition: 0.4s;
+@media only screen and (min-width: 721px){
+
+  .greyC {
+    filter: gray;
+    -webkit-filter: grayscale(100%); 
+    transition: 0.4s;
+  }
+  
+  .greyC:hover {
+    filter: none;
+    -webkit-filter: none;
+    transition: 0.4s;
+  }
+  
 }
 
-.greyC:hover {
-  filter: none;
-  -webkit-filter: none;
-  transition: 0.4s;
-}
+
+
 
 .btn41-43 {
   padding: 10px 25px;
