@@ -5,7 +5,7 @@ export default function Footer() {
         <ul className="Footer_nav__2rFid text-sm font-medium  sm:pb-20 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-y-10">
           <li className="space-y-5 row-span-2">
             <h2 className="text-sm tracking-wide text-white uppercase font-bold">
-              Company
+              Empresa
             </h2>
             <ul className="space-y-4 text-md">
               <li>
@@ -21,7 +21,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Merch
+                  Merchandising
                 </a>
               </li>{" "}
               <li>
@@ -29,7 +29,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Brand
+                  Marca
                 </a>
               </li>{" "}
               <li>
@@ -37,14 +37,14 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Meetups
+                  Contatos
                 </a>
               </li>
             </ul>
           </li>
           <li className="space-y-5 row-span-2">
             <h2 className="text-sm tracking-wide text-white uppercase font-bold">
-              Newsroom
+              Notícias
             </h2>
             <ul className="space-y-4">
               <li>
@@ -52,7 +52,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  News
+                  Princiais Notícias
                 </a>
               </li>
               <li>
@@ -60,7 +60,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Press
+                  Fórum
                 </a>
               </li>
               <li>
@@ -75,7 +75,7 @@ export default function Footer() {
           </li>
           <li className="space-y-5 row-span-2">
             <h2 className="text-sm tracking-wide text-white uppercase font-bold">
-              Products
+              Categorias
             </h2>
             <ul className="space-y-4">
               <li>
@@ -83,7 +83,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Hosting
+                  Monitores
                 </a>
               </li>
               <li>
@@ -91,7 +91,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Domains
+                  Periféricos
                 </a>
               </li>
               <li>
@@ -99,7 +99,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Security
+                  Computadores
                 </a>
               </li>
               <li>
@@ -107,14 +107,14 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  SSL
+                  Notebooks
                 </a>
               </li>
             </ul>
           </li>
           <li className="space-y-5">
             <h2 className="text-sm tracking-wide text-white uppercase font-bold">
-              Connect
+              Redes Sociais
             </h2>
             <ul className="space-y-4">
               <li>
@@ -151,7 +151,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Terms of Service
+                Termos de Serviço
               </a>
             </li>
             <li>
@@ -159,7 +159,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Privacy Policy
+                Politica de Privacidade
               </a>
             </li>
             <li>
@@ -167,7 +167,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Ad Choices
+                AD Sense
               </a>
             </li>
             <li>
@@ -175,7 +175,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Cookie Policy
+                Politica de Cookies
               </a>
             </li>
             <li>
@@ -183,7 +183,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Partners
+                Parceiros
               </a>
             </li>
           </ul>
