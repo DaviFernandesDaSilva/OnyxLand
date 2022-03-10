@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #151515;
+  color:white;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.g327 {
+  border-color: #302f30;
+}
+
+@font-face {
+  font-family: "AvenirNextW10-Bold";
+  src: url("../public/fonts/AvenirNext.ttf");
+
+}
+
+.Avenir {
+  font-family: AvenirNextW10-Bold;
+  font-display: swap;
+}
+
+.clearNav {
+  backdrop-filter: saturate(180%) blur(10px) !important;
+
+}
+
+.grr {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.greyC {
+  filter: gray;
+  -webkit-filter: grayscale(100%); 
+  transition: 0.4s;
+}
+
+.greyC:hover {
+  filter: none;
+  -webkit-filter: none;
+  transition: 0.4s;
+}
+
+.btn41-43 {
+  padding: 10px 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  background: transparent;
+  outline: none !important;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  
+}
+
+.bn45 {
+  width: 200px;
+}
+
+.bn46 {
+  width: 200px;
+}
+
+.btn-41 {
+  z-index: 1;
+  color: white;
+  border-radius: 30px;
+}
+
+.btn-41:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 100%;
+  top: 0;
+  left: 0;
+  direction: rtl;
+  z-index: -1;
+  background: rgb(255, 255, 255);
+  transition: all 0.3s ease;
+}
+
+.btn-41:hover {
+  color: rgb(0, 0, 0);
+}
+
+.btn-41:hover:after {
+  left: auto;
+  right: 0;
+  width: 100%;
+}
+
+.btn-41:active {
+  top: 2px;
+}
