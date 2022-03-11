@@ -7,7 +7,7 @@ export default function Main() {
           Seu sonho se encontra aqui!
           </h1>
           <p className="mb-4 xl:w-3/4 text-white text-lg">
-            Onyx se trata de uma plataforma e-commerce de produtos eletrônicos
+            Onyx trata-se de uma plataforma e-commerce de produtos eletrônicos
           </p>
           <div className="flex justify-center">
             <a
@@ -30,7 +30,7 @@ export default function Main() {
         <div className="container px-5 mx-auto lg:px-24 ">
           <div className="flex flex-col w-full mb-4 text-left lg:text-center">
             <h1 className="mb-8 text-2xl Avenir font-semibold text-white">
-              Reconhecido pelas melhores companias do mercado
+              Reconhecido pelas melhores companhias do mercado
             </h1>
           </div>
           <div className="grid grid-cols-2 gap-16 mb-16 text-center lg:grid-cols-4">
@@ -70,7 +70,7 @@ export default function Main() {
           Compre no conforto da sua casa
         </h1>
         <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-100 text-center">
-          A plataforma ONYX se encontra disponivel para PC, Android e IOS.
+          A plataforma ONYX está disponível para PC, Android e IOS.
         </h1>
 
         <div className="flex flex-row items-center justify-center mx-auto mb-8 gap-5">
@@ -90,10 +90,10 @@ export default function Main() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div className="py-24 md:py-36">
             <h1 className="mb-5 text-6xl Avenir font-semibold text-white">
-              Fique por dentro de todas as ofertas
+              Fique por dentro das notícias com nossa <strong>Newsletter</strong>
             </h1>
             <h1 className="mb-9 text-2xl font-semibold text-gray-10">
-              Coloque seu e-mail para recebimentos diários sobre as principais ofertas do dia
+              Insira seu endereço de e-mail para receber diariamente sobre as principais ofertas do dia
             </h1>
             <input
               placeholder="fulanodetal@exemplo.com"

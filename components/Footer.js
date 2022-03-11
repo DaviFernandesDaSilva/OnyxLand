@@ -52,7 +52,7 @@ export default function Footer() {
                   className="text-white transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Princiais Notícias
+                  Newsletter
                 </a>
               </li>
               <li>
@@ -159,7 +159,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Politica de Privacidade
+                Política de Privacidade
               </a>
             </li>
             <li>
@@ -175,7 +175,7 @@ export default function Footer() {
                 href="/"
                 className="text-md text-gray-300 transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Politica de Cookies
+                Política de Cookies
               </a>
             </li>
             <li>
