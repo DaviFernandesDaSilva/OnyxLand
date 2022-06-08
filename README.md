@@ -13,9 +13,12 @@ Para utilizar, após ter os arquivos e dependencias instalados em sua máquina, 
 
 ## Ligar o ambiente
 
+
+```bash
 npm run dev
-# ou
+# OU
 yarn dev
+```
 Abra http://localhost:3000 no seu navegador e verifique.
 
 Para editar basta modificar os componentes, ou a própria index.js na raiz do repositório.
@@ -30,7 +33,7 @@ Next.js Documentation - learn about Next.js features and API.
 Learn Next.js - an interactive Next.js tutorial.
 You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
 
-##Deploy on Vercel
+## Deploy on Vercel
 The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
 
 Check out our Next.js deployment documentation for more details.
