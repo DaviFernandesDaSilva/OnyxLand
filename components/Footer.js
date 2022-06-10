@@ -192,7 +192,7 @@ export default function Footer() {
               href="/"
               className="text-md text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold tracking-tight"
             >
-              © 2022 Onyx Eletronics.
+              © 2022 Davi Fernandes.
             </a>
           </ul>
         </div>
